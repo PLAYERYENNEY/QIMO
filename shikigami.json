@@ -3,6 +3,8 @@
   "type" : "输出",
   "typeone" :" 辅助",
   "typetwo" : "控制",
+  "secretBase" : "Super tower",
+  "active" : true,
   "members" : [
     {
       "Type" : "输出",
