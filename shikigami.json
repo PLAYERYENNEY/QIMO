@@ -34,6 +34,16 @@
         "一目连 / LCHIMOKUREN",
         "追月神 / OITSUKI"
       ]
+    },
+    {
+      "name" : "治疗",
+      "age" : "为己方回复生命",
+      "secretIdentity" : "主要属性堆积：生命，暴击，暴伤",
+      "powers" : [
+        "花鸟卷 / HANA",
+        "桃花妖 / MOMO",
+        "樱花妖 / SAKURA"
+      ]
     }
   ]
 }
