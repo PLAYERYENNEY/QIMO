@@ -1,7 +1,7 @@
 {
   "squadName" : "SHIKIGAMI",
   "homeTown" : "控制",
-  "formed" :'治疗' ,
+  "formed" : "治疗" ,
   "secretBase" : "Super tower",
   "active" : true,
   "members" : [
