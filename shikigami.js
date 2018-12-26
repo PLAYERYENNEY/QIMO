@@ -2,9 +2,7 @@
   "shikigami" : "SHIKIGAMI TYPE",
   "type" : "输出",
   "typeone" :" 辅助",
-  "typetwo" : "控制"
-  "secretBase" : "Super tower",
-  "active" : true,
+  "typetwo" : "控制",
   "members" : [
     {
       "Type" : "输出",
@@ -18,7 +16,7 @@
     {
       "Type" : "辅助",
       "describ" : "对友方进行帮助",
-      "powers" : [
+      "eg" : [
         "一目连 ICHIMOKUREN",
         "辉夜姬 / KAGUYA",
         "花鸟卷 / HANA"
@@ -27,7 +25,7 @@
     {
       "Type" : "控制",
       "describe" : "对敌方造成控制效果",
-      "powers" : [
+      "eg" : [
         "阎魔 / ENMA",
         "兵俑 / SAMURAI X",
         "般若 / HANNYA"
